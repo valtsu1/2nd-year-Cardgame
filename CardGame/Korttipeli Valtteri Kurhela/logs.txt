@@ -1,0 +1,74 @@
+p1 drew B4 p2 drew C4 
+This round ended in tie
+p1 has 0 wins, p2 has 0 wins and there has been 1 ties
+
+p1 drew C1 p2 drew C8 
+p1 has won this round with C1 
+p1 has 1 wins, p2 has 0 wins and there has been 1 ties
+
+p1 drew D5 p2 drew D12 
+p2 has won this round with D12 
+p1 has 1 wins, p2 has 1 wins and there has been 1 ties
+
+p1 drew D6 p2 drew A4 
+p1 has won this round with D6 
+p1 has 2 wins, p2 has 1 wins and there has been 1 ties
+
+p1 drew C2 p2 drew D4 
+p2 has won this round with D4 
+p1 has 2 wins, p2 has 2 wins and there has been 1 ties
+
+p1 drew A13 p2 drew B7 
+p1 has won this round with A13 
+p1 has 3 wins, p2 has 2 wins and there has been 1 ties
+
+p1 drew C7 p2 drew A11 
+p2 has won this round with A11 
+p1 has 3 wins, p2 has 3 wins and there has been 1 ties
+
+p1 drew C12 p2 drew B3 
+p1 has won this round with C12 
+p1 has 4 wins, p2 has 3 wins and there has been 1 ties
+
+p1 drew D2 p2 drew C11 
+p2 has won this round with C11 
+p1 has 4 wins, p2 has 4 wins and there has been 1 ties
+
+p1 drew D8 p2 drew A3 
+p1 has won this round with D8 
+p1 has 5 wins, p2 has 4 wins and there has been 1 ties
+
+p1 drew A12 p2 drew C3 
+p1 has won this round with A12 
+p1 has 6 wins, p2 has 4 wins and there has been 1 ties
+
+p1 drew D13 p2 drew C5 
+p1 has won this round with D13 
+p1 has 7 wins, p2 has 4 wins and there has been 1 ties
+
+p1 drew C6 p2 drew C13 
+p2 has won this round with C13 
+p1 has 7 wins, p2 has 5 wins and there has been 1 ties
+
+p1 drew C10 p2 drew A9 
+p1 has won this round with C10 
+p1 has 8 wins, p2 has 5 wins and there has been 1 ties
+
+p1 drew D11 p2 drew B11 
+This round ended in tie
+p1 has 8 wins, p2 has 5 wins and there has been 2 ties
+
+p1 drew D9 p2 drew B12 
+p2 has won this round with B12 
+p1 has 8 wins, p2 has 6 wins and there has been 2 ties
+
+p1 drew B6 p2 drew A10 
+p2 has won this round with A10 
+p1 has 8 wins, p2 has 7 wins and there has been 2 ties
+
+p1 drew A8 p2 drew A5 
+p1 has won this round with A8 
+p1 has 9 wins, p2 has 7 wins and there has been 2 ties
+
+Congratulations to p1 for winning p2
+with total score of 9 wins 7 loses and 2 ties
